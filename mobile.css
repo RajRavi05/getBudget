@@ -1,0 +1,47 @@
+.top {
+        height: 60vh;
+    }
+    /* .container{
+        height: 50vh;
+    } */
+    .budget {
+        width: 200px;
+    }
+    .add{
+        margin-top: 10px;
+    }
+    .add__type {
+        width: 38px;
+        height: 28px;
+        font-weight: 300;
+    }
+    
+    .add__description,
+    .add__value {
+    padding: 6px 6px;
+}
+    .add__description { width: 175px;}
+    .add__value { width: 75px;}
+
+    .income {
+        float: none;
+        width: 250px;
+        margin-left: 50px;
+    }
+    
+    .expenses {
+        margin-top: 10px;
+        float: none;
+        width: 250px;
+        margin-left: 50px
+    }
+.bottom{
+    height: 25vh;
+}
+
+.add__btn{
+    display: block;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
